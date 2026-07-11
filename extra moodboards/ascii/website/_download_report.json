@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-06-15T07:24:28.603Z",
+  "board": {
+    "name": "website",
+    "url": "https://in.pinterest.com/gaminization/website/ascii/",
+    "id": ""
+  },
+  "scan": {
+    "expectedCount": 0,
+    "collectedCount": 7,
+    "missingCount": 0,
+    "finalDomPinCount": 7,
+    "boardUrl": "https://in.pinterest.com/gaminization/website/ascii/"
+  },
+  "results": {
+    "requestedCount": 7,
+    "downloadedCount": 7,
+    "failedCount": 0
+  },
+  "failures": []
+}

@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-06-15T07:36:20.865Z",
+  "board": {
+    "name": "website",
+    "url": "https://in.pinterest.com/gaminization/website/home/",
+    "id": ""
+  },
+  "scan": {
+    "expectedCount": 0,
+    "collectedCount": 22,
+    "missingCount": 0,
+    "finalDomPinCount": 17,
+    "boardUrl": "https://in.pinterest.com/gaminization/website/home/"
+  },
+  "results": {
+    "requestedCount": 22,
+    "downloadedCount": 22,
+    "failedCount": 0
+  },
+  "failures": []
+}
